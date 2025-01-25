@@ -13,7 +13,7 @@ This is a simple web-based music player that lets users listen to songs, switch 
    - Easily switch to the next or previous song in the playlist.
 
 3. **Song Progress Bar**  
-   - Shows how much of the song has played. You can click on the bar to jump to a specific part.
+   - Shows how much of the song has been played. You can click on the bar to jump to a specific part.
 
 4. **Playlist**  
    - A list of all available songs with their names, artists, and album art. You can pick any song to play.
