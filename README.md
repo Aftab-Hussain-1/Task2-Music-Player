@@ -1,4 +1,4 @@
-# Music Player Application
+# Music Player 
 
 This is a simple web-based music player that lets users listen to songs, switch between tracks, and view a playlist. It's easy to use and visually appealing.
 
